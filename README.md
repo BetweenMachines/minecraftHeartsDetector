@@ -10,11 +10,17 @@ Currently they capture a box that wraps around the hearts so less data gets proc
 
 A couple lines below that you'll see " cDC.BitBlt((0,0), (w, h) , dcObj, (480,630), win32con.SRCCOPY)" adjust the 480, 630 to add or reduce bottom and left margin.
 
-Lastly, the bottom of the code you'll see alot of "cv.imshow(,)" commented out.
+Lastly, the bottom of the code you'll see a lot of "cv.imshow(,)" commented out.
 If you're interested in how the end product is accomplished un-comment these to see.
-If you're not horney for code donet worry about it.
+If you're not horny for code dont worry about it.
 
+Lastly before you get going, opencv detects the hearts based on color; some flowers, beds and apples are this same color so be careful when interacting with these.
+You can watch a demo of this build here, it goes over all of this in more detail:
+https://youtu.be/-tX0dnKtsEI
 
-Any projects you end up using this code for please tag me in them, I'd love to see what gets created.
+Any projects you end up using this code for please tag me in them, I'd love to see what you create.
 
 Happy zapping.
+
+
+Use at your own risk.
