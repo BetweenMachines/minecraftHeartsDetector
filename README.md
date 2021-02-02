@@ -15,8 +15,11 @@ If you're interested in how the end product is accomplished un-comment these to 
 If you're not horny for code dont worry about it.
 
 Lastly before you get going, opencv detects the hearts based on color; some flowers, beds and apples are this same color so be careful when interacting with these.
-You can watch a demo of this build here, it goes over all of this in more detail:
+
+You can watch a demo of this build here:
 https://youtu.be/-tX0dnKtsEI
+
+it goes over all of this in more detail.
 
 Any projects you end up using this code for please tag me in them, I'd love to see what you create.
 
